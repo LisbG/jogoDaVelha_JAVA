@@ -123,5 +123,6 @@ public class JogoVelha {
 
 	private void anunciarVencedor(char valorJogada) {
 		System.out.println("O jogador " + valorJogada + " é o vencedor!");
+
 	}
 }
